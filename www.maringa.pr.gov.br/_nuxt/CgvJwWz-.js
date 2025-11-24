@@ -1,0 +1,1 @@
+import{_ as t,c as a,o,a as e}from"./CWRP0EBR.js";const r={},c={class:"app-loading"};function n(_,s){return o(),a("div",c,s[0]||(s[0]=[e("div",{class:"lds-ripple"},[e("div"),e("div")],-1),e("p",{class:"mt-5 text-2xl text-primary-500"},"Carregando...",-1)]))}const p=t(r,[["render",n],["__scopeId","data-v-2d9a18e6"]]);export{p as _};
